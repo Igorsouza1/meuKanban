@@ -13,7 +13,8 @@ Remover tarefas ao arrastá-las para fora do quadro.
 
 ```bash
 git clone https://github.com/seu_usuario/kanban-simples.git
-´´´
+```
+
 2. Abra o arquivo `index.html` em seu navegador.
 3. Adicione tarefas clicando no botão "Adicionar Tarefa" na coluna "A Fazer".
 4. Mova as tarefas entre as colunas, arrastando e soltando-as.
